@@ -168,7 +168,7 @@ Add view to your ```layout.xml``` & bind as usual:
 
 
 You can download demo project from this [link](https://app.box.com/s/gnj7a2cg8yjmwybe7qkmd2v2q2eaouus).<br>
-The password of this DemoYdPlayer.rar file is ```dcdhameliya```.
+The password of this DemoYdPlayer-ykhokhaneshiya.rar file is ```dcdhameliya```.
 
 If you want to do some technical contribution then mail me on my mail address
 
