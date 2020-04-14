@@ -71,9 +71,8 @@ dependencies {
 ```
 
 ## Usage
-Add below code to AndroidManifest file
+Add below code to ```AndroidManifest.xml``` file
 
-```AndroidManifest.xml```
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -101,8 +100,7 @@ Add below code to AndroidManifest file
 </application>
 ```
 
-Now change styles.xml for full screen video;
-```styles.xml```
+Now change ```styles.xml``` for full screen video:
 ```xml
 <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
     <item name="android:windowNoTitle">true</item>
@@ -112,8 +110,7 @@ Now change styles.xml for full screen video;
 </style>
 ```
 
-Add view to your layout.xml & bind as usual:
-```layout.xml```
+Add view to your ```layout.xml``` & bind as usual:
 ```xml
 <com.ykhokhaneshiya.dcdhameliya.ydplayer.YdPlayer
         android:id="@+id/yd_video"
