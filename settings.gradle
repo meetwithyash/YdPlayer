@@ -1,0 +1,3 @@
+rootProject.name='dc player'
+include ':app'
+include ':ydplayer'
