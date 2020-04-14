@@ -2,7 +2,7 @@
 
 <b>YdPlayer</b> is a android library to help embed video player in your Android Application.
 
-example:
+Example:
 
 <table>
   <tr>
@@ -40,10 +40,7 @@ example:
     </tr>
 </table>
 
-
-It can only used to show video inside your app, with many video controls like (Play/Pause Control, ForWard Control, BackWard Control, Brightness Control, Volume Control)
-
-
+It can be used to display video inside your app with basic(Play/Pause Control) as well as advanced(Forward/Backward + Brightness + Volume Controls) controls.
 
 ## Download
 Add belowed code in your root ```build.gradle``` at the end of repositories:
@@ -160,21 +157,13 @@ Add view to your ```layout.xml``` & bind as usual:
     }
 ```
 
-
-
-
-
 <br><br>You may found anoher YdPlayer library [here](https://github.com/dcdhameliya/YdPlayer).<br><br>
-
 
 You can download demo project from this [link](https://app.box.com/s/gnj7a2cg8yjmwybe7qkmd2v2q2eaouus).<br>
 The password of this DemoYdPlayer-ykhokhaneshiya.rar file is ```dcdhameliya```.
 
-If you want to do some technical contribution then mail me on my mail address
-
-Of course, it is my first open-source library, it must have much trouble, and bug, you can give me some advice, and then, I can learn more and I will update the library with your advice and proper credits.
-
-mail ：ykhokhaneshiya@gmail.com
+If you want to contribute something then write me on the email.
+email：ykhokhaneshiya@gmail.com
 
 &copy; Yash Khokhaneshiya
 Licensed under the [MIT License](LICENSE).
