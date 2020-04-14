@@ -166,6 +166,10 @@ Add view to your layout.xml & bind as usual:
 
 
 
+
+<br><br>You may found anoher YdPlayer library [here](https://github.com/dcdhameliya/YdPlayer).<br><br>
+
+
 You can download demo project from this [link](https://app.box.com/s/gnj7a2cg8yjmwybe7qkmd2v2q2eaouus).<br>
 The password of this DemoYdPlayer.rar file is ```dcdhameliya```.
 
